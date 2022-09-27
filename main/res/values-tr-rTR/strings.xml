@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Renkli Flashlight Pro</string>
+    <string name="flash">flaş</string>
+    <string name="change_color">Renk</string>
+    <string name="rainbow">Gökkuşağı</string>
+    <string name="back">Geri</string>
+    <string name="line">Çizgi</string>
+    <string name="dot">Nokta</string>
+    <string name="clear">Temizle</string>
+    <string name="exit">Çıkış</string>
+</resources>

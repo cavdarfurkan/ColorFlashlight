@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Color Flashlight Pro</string>
+    <string name="sos_seq" translatable="false">…___…</string>
+    <string name="flash">flash</string>
+    <string name="sos" translatable="false">SOS</string>
+    <string name="change_color">Change Color</string>
+    <string name="rgb" translatable="false">RGB</string>
+    <string name="rainbow">Rainbow</string>
+    <string name="morse" translatable="false">morse</string>
+    <string name="back">back</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="line">line</string>
+    <string name="dot">dot</string>
+    <string name="clear">clear</string>
+    <string name="exit">exit</string>
+</resources>
